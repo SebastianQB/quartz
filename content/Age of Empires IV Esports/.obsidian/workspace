@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "2a00c32d1e10c9b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "64532a9ba0a606de",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad5d602ee9ee50b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "481644c7c40fbef7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "654e72e21fab095d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cee917d339fa25db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#StarCraft2",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364
+  },
+  "right": {
+    "id": "db56ea44003ff4aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f3206088c62379b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa91b2bee3d926e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "64532a9ba0a606de",
+  "lastOpenFiles": [
+    "Individuals/Other RTS/Matiz.md",
+    "Tournaments/Events/GENESIS.md",
+    "Communities/Age of Empires IV Reddit.md",
+    "Communities/Competitive AoE IV Discord.md",
+    "Farm Man.md",
+    "Untitled.md",
+    "Mindfreak.md",
+    "Individuals/Other RTS/HuT.md",
+    "Individuals/Other RTS/Iaguz.md",
+    "HuT.md"
+  ]
+}
